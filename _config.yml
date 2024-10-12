@@ -21,9 +21,9 @@ author:
   avatar           : "mitra.jpg"
   name             : "Tirthankar Mittra"
   pronouns         : "he/him"
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "CU Boulder"
+  bio              : "Independent Researcher"
+  # location         : "Earth"
+  # employer         : "CU Boulder"
   email            : "tirthankarmittra@gmail.com" 
 
   # Academic websites
