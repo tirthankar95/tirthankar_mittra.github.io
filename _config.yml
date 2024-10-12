@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Tirthankar Mittra / Personal Website"
 title_separator          : "-"
-name                     : &name "Tirthankar Mittra"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://academicpages.github.io 
 repository               : "academicpages/academicpages.github.io"
@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mitra.jpg"
+  avatar           : "profile.png"
   name             : "Tirthankar Mittra"
   pronouns         : "he/him"
   bio              : "Short biography for the left-hand sidebar"
