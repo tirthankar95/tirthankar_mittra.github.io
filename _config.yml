@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Tirthankar Mittra / Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tirthankar Mittra"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io 
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mitra.jpg"
   name             : "Tirthankar Mittra"
   pronouns         : "he/him"
   bio              : "Short biography for the left-hand sidebar"
