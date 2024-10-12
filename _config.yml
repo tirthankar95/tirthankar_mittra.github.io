@@ -8,12 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tirthankar Mittra / Site Title"
+title                    : "Tirthankar Mittra / Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -27,7 +26,6 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "CU Boulder"
-  uri              : # URL
   email            : "tirthankarmittra@gmail.com" 
 
   # Academic websites
@@ -36,11 +34,11 @@ author:
   orcid            : "https://orcid.org/0009-0000-2811-1456"
 
   # Repositories and software development
-  github           : "https://github.com/tirthankar95"
-  kaggle           : "https://www.kaggle.com/tirthankarmitra"
+  github           : "tirthankar95"
+  kaggle           : "tirthankarmitra"
 
   # Social media
-  linkedin         : "https://www.linkedin.com/in/tirthankar-mittra-9606889a/"
+  linkedin         : "tirthankar-mittra-9606889a/"
 
 
 # Site Settings
