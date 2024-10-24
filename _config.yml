@@ -22,21 +22,19 @@ author:
   name             : "Tirthankar Mittra"
   pronouns         : "he/him"
   bio              : "Independent Researcher"
-  # location         : "Earth"
-  # employer         : "CU Boulder"
   email            : "tirthankarmittra@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=UuF22sMAAAAJ&hl=en"
-  orcid            : "https://orcid.org/0009-0000-2811-1456"
-
+  
+  # Social media
+  linkedin         : "tirthankar-mittra-9606889a/"
+  
   # Repositories and software development
   github           : "tirthankar95"
   kaggle           : "tirthankarmitra"
 
-  # Social media
-  linkedin         : "tirthankar-mittra-9606889a/"
+
 
 
 # Site Settings
